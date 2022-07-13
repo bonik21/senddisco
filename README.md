@@ -13,11 +13,15 @@
    ini파일 인코딩 --> UTF-8 (우분투)
    
 03.메시지 전송 방법
+
    윈도우
+   
    python senddisco.py "보내고 싶은 메시지"
+   
    py senddisco.py "보내고 싶은 메시지"
    
    우분투
+   
    python3 senddisco.py "보내고 싶은 메시지"   
    
 
