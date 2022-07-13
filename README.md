@@ -6,9 +6,12 @@
 01.requests모듈이 없다면 pip install requests
 
 02.ini파일 작성
+
    ini파일 인코딩 --> Ansi (윈도우)
    ini파일 인코딩 --> UTF-8 (우분투)
    
-03.python senddisco. "보내고 싶은 메시지"
+03.메시지 전송 방법
+
+   python senddisco. "보내고 싶은 메시지"
 
 작성자 : BoniK (https://bonik.me) 수정 및 배포금지
