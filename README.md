@@ -1,6 +1,7 @@
 기능 : 윈도우 CMD창이나 우분투 터미널에서 디스코드 메시지 전송
 
 <사용 방법>
+
 00.디스코드 웹훅URL 생성(인터넷 검색)
 
 01.requests모듈이 없다면 pip install requests
